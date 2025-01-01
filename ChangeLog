@@ -1,0 +1,45 @@
+1.0-6 (05 Dec 2024)
+-----
+
+Fix a bug in maximin.R function (kudos to Paul Jensen)
+
+Fix a bug in maximin_cand.R function (kudos to Adam L. Pintar)
+
+1.0-5 (13 Mar 2024)
+-----
+
+Update both functions to accommodate R version update (>= 4.2.0)
+
+Update the email address of the maintainer
+
+
+1.0-4 (09 Jan 2021)
+-----
+
+Added more sanity checks within the two algorithms
+
+Modified DESCRIPTION
+
+Added the "usage" section for the "lola_kn" dataset
+
+Updated the "details" and "examples" sections in the manual file
+
+Updated the algorithm with discrete search
+
+1.0-3 (31 Oct 2019)
+-----
+
+Cosmetic edits of the manual file
+
+Updated the reference
+
+Added the "lola_kn" dataset and its documentation
+
+1.0-2 (02 Feb 2019)
+-----
+
+Updated the package title
+
+Modified maximin.cand to save memory suggested by Bobby
+
+Revised the manual file

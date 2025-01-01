@@ -1,0 +1,8 @@
+# exports
+export(maximin.cand, maximin)
+
+## required for new CRAN checks
+importFrom("plgp", "distance")
+importFrom("graphics", "par", "plot", "points", "mtext", "abline", "legend", "arrows", "rect")
+importFrom("stats", "optim", "runif", "na.omit")
+importFrom("grDevices", "rgb")
